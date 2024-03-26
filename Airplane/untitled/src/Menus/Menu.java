@@ -14,7 +14,7 @@ public class Menu {
         byte userChoice;
         boolean validInput = false;
 
-        System.out.println("*********** Welcome to 9/11 ***********");
+        System.out.println("*********** Welcome to Airport ***********");
         System.out.println("Choose the flying object you want to hit the twin with!");
         do {
             System.out.println("Enter 1 for a Helicopter");
